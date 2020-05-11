@@ -1,0 +1,4 @@
+You need to install the packages/modules:
+Numpy, matplotlib and pandas.
+
+This example is my own version of a Multiple Linear Regression but in a Venture Capital investment decision-making analysis. R is amazing, but back in the days when I wanted to expand my knowledge from R to Python I took an amazing self taught Machine Learning course called 'ML A-Z'; the course tutors are Kirill Eremenko and Hadelin de Ponteves.
